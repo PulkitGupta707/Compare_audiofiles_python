@@ -1,6 +1,7 @@
 # Compare_audiofiles_python
 
-install scipy to run it
+install scipy
+
 pip install scipy
 or
 conda install scipy
